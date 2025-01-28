@@ -1,3 +1,15 @@
 # Imersao-front-end-alura 🔵
 
 This repository will include files used in the immersion code to create the Spotify app home page, with the aim of improving knowledge about front end, JavaScript, CSS and HTML
+
+# Some important files for class 1: 
+
+[Font Awesome: ícones](https://fontawesome.com/icons)
+
+[Definição HTML, CSS e Javascript](https://www.alura.com.br/artigos/html-css-e-js-definicoes)
+
+[HTML e suas tags](https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-5-atributos-elementos)
+
+[Guia do CSS](https://www.alura.com.br/artigos/css)
+
+[ChatGPT: dicas e como usar](https://www.alura.com.br/artigos/chatgpt)
