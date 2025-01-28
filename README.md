@@ -16,5 +16,6 @@ This repository will include files used in the immersion code to create the Spot
 
 # Some importants files for class 2:
 [CSS: seletores avançados que facilitam o desenvolvimento web](https://www.alura.com.br/artigos/css-seletores-avancados-aplicacoes-web)
+
 [Guia de CSS Flexbox](https://www.alura.com.br/artigos/css-guia-do-flexbox)
 
