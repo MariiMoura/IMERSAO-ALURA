@@ -20,3 +20,13 @@ This repository will include files used in the immersion code to create the Spot
 [Guia de CSS Flexbox](https://www.alura.com.br/artigos/css-guia-do-flexbox)
 
 [Padrão BEM para CSS](https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem#utilizando-o-padrao-bem)
+
+# Some importants files for class 3:
+
+[Definição e prática das Pseudo-Classes.]()
+
+[Construa CSS com variáveis]()
+
+[Propriedade variável do CSS]()
+
+[CSS: grids e responsividade]()
