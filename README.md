@@ -2,6 +2,11 @@
 
 This repository will include files used in the immersion code to create the Spotify app home page, with the aim of improving knowledge about front end, JavaScript, CSS and HTML
 
+# 💻 Technologies used
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="64"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="64"/>
+
+
 # Some important files for class 1: 
 
 [Font Awesome: ícones](https://fontawesome.com/icons)
