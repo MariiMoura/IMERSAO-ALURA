@@ -43,3 +43,18 @@ This repository will include files used in the immersion code to create the Spot
 [Propriedade variável do CSS]()
 
 [CSS: grids e responsividade]()
+
+# Some important files for class 4:
+
+[Guia de JavaScript](https://www.alura.com.br/artigos/javascript)
+
+[Guia de propriedades CSS Grid](https://www.alura.com.br/artigos/css-grid-guia-propriedades-grid-container-grid-item)
+
+[Flexibilidade em páginas mobile com media queries](https://www.alura.com.br/artigos/flexibilidade-em-paginas-para-dispositivos-moveis-com-media-queries)
+
+[O que é DOM](https://www.alura.com.br/artigos/o-que-e-o-dom)
+
+[O que é o método Promises do JavaScript e quando usar?](https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar)
+
+[O que é JSON](https://www.alura.com.br/artigos/o-que-e-json)
+
