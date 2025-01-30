@@ -6,6 +6,14 @@ This repository will include files used in the immersion code to create the Spot
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="64"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="64"/>
 
+# 🤓 Project Objectives
+
+- **Class 1:** Create the initial structure of the page with HTML.
+- Apply basic styling to simulate Spotify design with CSS.
+- **Class 2** Create Library and language, button and text styling.
+- **Class 3** Use of CSS variables, increasing font size, use of media queries, search navigation.
+- **Class 4** Use of DOM, local api and others.
+
 
 # Some important files for class 1: 
 
