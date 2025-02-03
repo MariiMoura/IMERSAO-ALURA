@@ -58,3 +58,21 @@ This repository will include files used in the immersion code to create the Spot
 
 [O que é JSON](https://www.alura.com.br/artigos/o-que-e-json)
 
+
+# Some important files for class 5:
+
+[Guia de React em JavaScript](https://www.alura.com.br/artigos/react-js)
+
+[Podcast Hipsters - Do Front ao React](https://www.hipsters.tech/do-front-end-ao-react-hipsters-ponto-tech-258/)
+
+[Angular vs React vs Vue.js](https://www.alura.com.br/artigos/angular-vs-react-vs-vue-js)
+
+[React e como os componentes funcionam](https://www.alura.com.br/conteudo/react-componentes-funcionam)
+
+[Podcast Hipsters: Angular vs React](https://www.alura.com.br/podcast/angular-vs-react-hipsters-142-a439)
+
+[JavaScript ou TypeScript](https://www.alura.com.br/artigos/javascript-ou-typescript)
+
+[Comunidade Angular_sp no YouTube](https://www.youtube.com/@angularsp3351/videos)
+
+
